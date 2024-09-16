@@ -12,9 +12,8 @@ This project is a Spring Boot REST API that performs CRUD (Create, Read, Update,
 ## Technologies Used
 - **Spring Boot**: Java-based framework for building web and enterprise applications.
 - **Spring Data JPA**: Abstraction over JPA to easily interact with the database.
-- **Clever Cloud**: Hosting platform for the online database.
-- **Lombok** (optional): To reduce boilerplate code for getters, setters, and constructors.
-- **Maven**: Build and dependency management.
+- **Clever Cloud**: Hosting platform for the online cloud mysql database.
+- **Maven-dependency**: Add JSTL dependency for run Jsp pages.
 
 ## API Endpoints
 - **Book API**:
